@@ -1,0 +1,4 @@
+Jedan 9.4 2
+Dva 9.2 3
+Tri 6.0 6
+Cetiri 7.7 15

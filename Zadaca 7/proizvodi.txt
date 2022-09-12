@@ -1,0 +1,5 @@
+aaa ppp 180 5
+bbb FIAT 120 10
+ccc fff 150 0
+ddd ttt 50 8
+eee FIAT 240 0

@@ -1,0 +1,10 @@
+9
+Prvi Jedan Engleski 5
+Drugi Dva Njemacki 5
+Treci Tri Njemacki 3
+Cetvrti Cetiri Njemacki 2
+Peti Pet Engleski 5
+Sesti Sest Engleski 2
+Sedmi Sedam Engleski 5
+Osmi Osam Njemacki 5
+Deveti Devet Engleski 4

@@ -1,0 +1,12 @@
+Ajdin 10 0 Zadovoljava
+Nesto 9.9 1 Zadovoljava
+Jedan 9.4 2 Zadovoljava
+Dva 9.2 3 Zadovoljava
+Neko 8.2 4 Zadovoljava
+Kako 8.1 5 Ne zadovoljava
+Cetiri 7.7 15 Ne zadovoljava
+Niko 7.5 3 Zadovoljava
+Novi 6.3 9 Ne zadovoljava
+Tri 6 6 Ne zadovoljava
+Primjer 5.9 10 Ne zadovoljava
+Test 5.7 8 Ne zadovoljava

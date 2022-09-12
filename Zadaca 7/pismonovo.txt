@@ -1,0 +1,5 @@
+ovo JE SADRZAJ DATOTEKE PISMO
+ispisani tekst je napisan velikim slovima
+rIJEC POTOP JE palindrom
+tAKODJER ISTO TAKO radar JE PALINDROM
+dosli SMO DO kraja DATOTEKE

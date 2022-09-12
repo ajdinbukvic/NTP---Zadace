@@ -1,0 +1,5 @@
+OVO je sadrzaj datoteke pismo
+ISPISANI TEKST JE NAPISAN VELIKIM SLOVIMA
+Rijec potop je PALINDROM
+Takodjer isto tako RADAR je palindrom
+DOSLI smo do KRAJA datoteke

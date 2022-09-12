@@ -1,0 +1,5 @@
+Prvi Drugi 3 4 3.78
+Novi Ucenik 4 5 4.66
+Neki Nesto 1 4 4.21
+Treci Cetvrti 2 5 4.85
+Ajdin Bukvic 4 5 5.00
